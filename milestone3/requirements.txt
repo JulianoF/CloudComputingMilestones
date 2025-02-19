@@ -1,0 +1,16 @@
+# Apache Beam with GCP support.
+apache-beam[gcp]==2.45.0
+
+# OpenCV for image processing.
+opencv-python-headless==4.7.0.68
+
+# PyTorch (CPU version if GPU is not needed; adjust if using GPU)
+torch==1.13.1
+torchvision==0.14.1
+
+# Ultralytics YOLO (or another YOLO implementation)
+ultralytics==8.0.85
+
+# Additional libraries.
+numpy==1.22.4
+google-cloud-pubsub==2.13.0
